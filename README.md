@@ -212,19 +212,24 @@ predict_image(model, image_index=80, dataset=test_dataset)
 
 ### OUTPUT
 
+
 ## Training Loss per Epoch
 
-Include the Training Loss per epoch
+<img width="516" height="213" alt="image" src="https://github.com/user-attachments/assets/08204100-96f6-4ae1-97bc-bd41a403326a" />
+
 
 ## Confusion Matrix
 
-Include confusion matrix here
+<img width="881" height="802" alt="image" src="https://github.com/user-attachments/assets/83e3111c-8ca4-4ae1-aa04-2fcb116c63c0" />
+
 
 ## Classification Report
-Include classification report here
 
 ### New Sample Data Prediction
-Include your sample input and output here
+<img width="636" height="438" alt="image" src="https://github.com/user-attachments/assets/73574292-afb3-462b-ba3b-ddcd45a06951" />
+
 
 ## RESULT
-Include your result here
+Thus, To develop a convolutional deep neural network (CNN) for image classification and to verify the response for new images is executed and verified successfully.
+
+
